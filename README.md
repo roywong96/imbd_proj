@@ -38,6 +38,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 - Creating a column for the release year of each movies
 - Dropping movies wihout ratings. Movies without ratings means that it does not have raters. Hence, movies without raters have been removed as well.
 - Removed the MPAA columns since there are too many missing values and filling in the MPAA would be inaccurate.
+- Impute missing values for {'Budget', 'Openning Weekend', 'Gross USA', 'cumulative worldwide'} with median.
 - Made columns for if different genres for each movie where some movies have combinations of genres as given below represented as binary:
   - Comedy
   - Action
