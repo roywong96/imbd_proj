@@ -11,23 +11,23 @@ Tools used for scraping with the help of Beautiful Soup from [Joseph Cowell Proj
 
 Tweaked the web scraper github repo (above) to scrape 8000 movies from imdb.com. With each movie, we obtained the following:
 
-movie title
-imdb rating
-imdb raters
-mpaa
-genres
-director
-writer
-stars
-country
-language
-release date
-budget
-opening weekend
-gross usa
-cumulative worldwide
-production companies
-runtime (min)
+- movie title
+- imdb rating
+- imdb raters
+- mpaa
+- genres
+- director
+- writer
+- stars
+- country
+- language
+- release date
+- budget
+- opening weekend
+- gross usa
+- cumulative worldwide
+- production companies
+- runtime (min)
 
 
 # Data Cleaning
