@@ -9,7 +9,7 @@ Tools used for scraping with the help of Beautiful Soup from [Joseph Cowell Proj
 
 # Web Scraping
 
-Tweaked the web scraper github repo (above) to scrape 8000 movies from imdb.com. With each movie, we obtained the following:
+Tweaked the web scraper github repo (above) to scrape 2000 movies from imdb.com. With each movie, we obtained the following:
 
 - movie title
 - imdb rating
