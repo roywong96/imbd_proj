@@ -5,6 +5,9 @@ IMDB ratings project
 ## References:
 
 Tools used for scraping with the help of Beautiful Soup from [Joseph Cowell Project 2](https://github.com/josephpcowell/cowell_proj_2/tree/master/helper_functions)
+**Python Version:** 3.8
+**Scraper Article:** https://towardsdatascience.com/scraping-tv-show-epsiode-imdb-ratings-using-python-beautifulsoup-7a9e09c4fbe5
+
 
 
 # Web Scraping
