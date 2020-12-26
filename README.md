@@ -5,7 +5,7 @@ IMDB ratings project
 ## References:
 **Python Version:** 3.8<br/>
 **Packages:** numpy, pandas, seaborn, matplotlib, Beautiful Soup, pickle <br/>
-**Scraper Github:** 3.8<br/> [Joseph Cowell Project 2](https://github.com/josephpcowell/cowell_proj_2/tree/master/helper_functions)<br/>
+**Scraper Github:**  [Joseph Cowell Project 2](https://github.com/josephpcowell/cowell_proj_2/tree/master/helper_functions)<br/>
 **Scraper Article:** https://towardsdatascience.com/scraping-tv-show-epsiode-imdb-ratings-using-python-beautifulsoup-7a9e09c4fbe5<br/>
 
 
