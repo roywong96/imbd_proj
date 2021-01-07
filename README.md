@@ -72,9 +72,12 @@ First, I transformed the categorical variables into dummy variables. I also spli
 I tried several different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.
 
 
-Models I tried are:
+Models I tried using Scikit learn are:
 
 - **Multiple Linear Regression:** Baseline for the model
 - **Ridge Regression:** As a comparison to the Linear model I have chosen.
 - **Lasso Regression:** Because of the sparse data from the many categorical variables in genres, I thought a normalized regression like lasso would be effective.
 - **Random Forest:** With the sparsity of data, I assume that it would be a good fit
+- **Bayesian Ridge:** With the sparsity of data, I assume that it would be a good fit
+
+Optimizations and predictions and evaluate using an R^2 score.
