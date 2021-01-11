@@ -78,6 +78,6 @@ Models I tried using Scikit learn are:
 - **Ridge Regression:** As a comparison to the Linear model I have chosen.
 - **Lasso Regression:** Because of the sparse data from the many categorical variables in genres, I thought a normalized regression like lasso would be effective.
 - **Random Forest:** With the sparsity of data, I assume that it would be a good fit
-- **Bayesian Ridge:** With the sparsity of data, I assume that it would be a good fit
+- **Bayesian Ridge:** Chosen with regards to the sparsity of the data and assume it would be a good fit.
 
-Optimizations and predictions and evaluate using an R^2 score.
+
