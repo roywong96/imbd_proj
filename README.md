@@ -80,3 +80,16 @@ Models I tried using Scikit learn are:
 - **Random Forest:** With the sparsity of data, I assume that it would be a good fit
 
 
+# Model Performance
+
+So far, The Random Forest model far outperformed the other approaches on the test and validation sets.
+
+
+- **Linear Regression Model MAE:** 0.558
+- **Lasso Regression Model MAE:** 0.540
+- **Bayesian Ridge Regression Model MAE:** 0.541
+- **Random Forest Model MAE:** 0.505
+
+
+- **Average Random Foreest and Linear Regression MAE:** 0.515
+
