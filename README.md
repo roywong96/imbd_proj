@@ -1,4 +1,4 @@
-# imbd_proj
+# IMDB Ratings Predictor: Project Overview
 IMDB ratings project 
 
 
