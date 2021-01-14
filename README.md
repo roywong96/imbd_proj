@@ -92,3 +92,9 @@ So far, The Random Forest model far outperformed the other approaches on the tes
 - **Random Forest Model:** MAE= 0.505
 - **Average Random Foreest and Linear Regression:** MAE= 0.515
 
+# Regression Analysis
+
+Based on the regression model, the R-squared is found to 0.426 which is seemingly low. However, it is not necessarily bad as studies that try to explain human behavior generally have R2 values less than 50%. People are just harder to predict than things like physical processes. Article related to this explanation can be found in the references above.
+
+
+
