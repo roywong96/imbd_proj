@@ -66,6 +66,12 @@ After scraping the data, I needed to clean it up so that it was usable for our m
   - History
   - Romance
 
+# Exploratory Data Analysis
+
+![](https://github.com/roywong96/imbd_proj/blob/master/images/actors.png)
+![](https://github.com/roywong96/imbd_proj/blob/master/images/genres.png)
+![](https://github.com/roywong96/imbd_proj/blob/master/images/genres20years.png)
+
 
 # Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
