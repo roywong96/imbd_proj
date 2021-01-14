@@ -94,7 +94,7 @@ So far, The Random Forest model far outperformed the other approaches on the tes
 
 # Regression Analysis
 
-Based on the regression model, the R-squared is found to 0.426 which is seemingly low. However, it is not necessarily bad as studies that try to explain human behavior generally have R2 values less than 50%. People are just harder to predict than things like physical processes. Article related to this explanation can be found in the references above.
+Based on the regression model, the R-squared is found to 0.426 which is seemingly low. However, it is not necessarily bad as studies that try to explain human behavior generally have R<sup>2</sup> values less than 50%. People are just harder to predict than things like physical processes. Article related to this explanation can be found in the references above.
 
 
 
