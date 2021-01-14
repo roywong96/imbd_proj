@@ -8,6 +8,7 @@ IMDB ratings project
 **Scraper Github:**  [Joseph Cowell Project 2](https://github.com/josephpcowell/cowell_proj_2/tree/master/helper_functions)<br/>
 **Scraper Article:** https://towardsdatascience.com/scraping-tv-show-epsiode-imdb-ratings-using-python-beautifulsoup-7a9e09c4fbe5<br/>
 **Regression Article:** [Are low R-Squared Values always a Problem?](https://statisticsbyjim.com/regression/interpret-r-squared-regression/)<br/>
+**Data Leakeage Article** [Data Leakage in Machine Learning](https://towardsdatascience.com/data-leakage-in-machine-learning-6161c167e8ba)<br/>
 
 
 
@@ -97,4 +98,9 @@ So far, The Random Forest model far outperformed the other approaches on the tes
 Based on the regression model, the R-squared is found to 0.426 which is seemingly low. However, it is not necessarily bad as studies that try to explain human behavior generally have R<sup>2</sup> values less than 50%. People are just harder to predict than things like physical processes. Article related to this explanation can be found in the references above.
 
 
+# Exploration into Data Leakage
+
+Throughout the modeling, it is found that the model I chose has been performing a little too well when adding in Directors and Writers to the model which gives an R<sup>2</sup> = 0.875.
+
+Hence, after researching several articles regarding data leakage, it is obvious that the target is leaking into the model which destroyed the purpose of predictions.
 
