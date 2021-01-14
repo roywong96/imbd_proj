@@ -7,6 +7,7 @@ IMDB ratings project
 **Packages:** numpy, pandas, seaborn, matplotlib, Beautiful Soup, pickle <br/>
 **Scraper Github:**  [Joseph Cowell Project 2](https://github.com/josephpcowell/cowell_proj_2/tree/master/helper_functions)<br/>
 **Scraper Article:** https://towardsdatascience.com/scraping-tv-show-epsiode-imdb-ratings-using-python-beautifulsoup-7a9e09c4fbe5<br/>
+**Regression Article:** [Are low R-Squared Values always a Problem?](https://statisticsbyjim.com/regression/interpret-r-squared-regression/)<br/>
 
 
 
