@@ -85,7 +85,7 @@ Models I tried using Scikit learn are:
 - **Multiple Linear Regression:** Baseline for the model
 - **Lasso Regression:** Because of the sparse data from the many categorical variables in genres, I thought a normalized regression like lasso would be effective.
 - **Bayesian Ridge:** Chosen with regards to the sparsity of the data and ideal for dealing with data containing multiple outliers.
-- **Random Forest:** With the sparsity of data, I assume that it would be a good fit
+- **Random Forest Regressor:** With the sparsity of data, I assume that it would be a good fit
 
 
 # Model Performance
