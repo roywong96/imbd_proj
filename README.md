@@ -5,7 +5,7 @@
 - Engineered features from the genres to quatify the value for each genre such as drama, action, thriller, comedy, romance and so forth.
 - Optimized Linear, Lasso, Bayesian Ridge and Random Forest Regressor using GridSearchCV to reach the best model.
 - A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
-- Evaluated the models using Mean Absolute Error for simplicity
+- Evaluated the models using Mean Absolute Error for simplicity.
 
 
 ## References:
