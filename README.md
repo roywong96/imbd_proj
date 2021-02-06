@@ -1,5 +1,11 @@
 # IMBD Ratings Predictor: Project Overview
-IMDB ratings project 
+
+- Created a tool that predicts movie ratings from the imbd website
+- Scraped over 2000 movies from imbd website using Python and Beautiful Soup
+- Engineered features from the genres to quatify the value for each genre such as drama, action, thriller, comedy, romance and so forth.
+- Optimized Linear, Lasso, Bayesian Ridge and Random Forest Regressor using GridSearchCV to reach the best model.
+- A deep dive into data leakage to prevent target from leaking into models I chose for an accurate prediction.
+- Evaluated the models using Mean Absolute Error for simplicity
 
 
 ## References:
