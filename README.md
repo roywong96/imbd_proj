@@ -78,6 +78,8 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 ![](https://github.com/roywong96/imbd_proj/blob/master/images/genres.png)
 ![](https://github.com/roywong96/imbd_proj/blob/master/images/genres20years.png)
 
+Full Notebook can be view [here](https://jovian.ai/roywong96/imdb-eda)
+
 
 # Model Building
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
