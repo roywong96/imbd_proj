@@ -93,6 +93,7 @@ Models I tried using Scikit learn are:
 - **Bayesian Ridge:** Chosen with regards to the sparsity of the data and ideal for dealing with data containing multiple outliers.
 - **Random Forest Regressor:** With the sparsity of data, I assume that it would be a good fit
 
+Full Notebook for Model Building can be view [here](https://jovian.ai/roywong96/imdb-model-building)
 
 # Model Performance
 
